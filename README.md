@@ -1,2 +1,1 @@
 # articles
-personal articles
