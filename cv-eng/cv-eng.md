@@ -5,7 +5,7 @@
 # Fullstack developer
 
 <p style="width: 300px; padding-bottom: 45px;">
-Experience in product and infrastructure development, and research. Applied my coding skills in different areas such as marketing, high-frequency trading, and teaching. Interested in challenging problems.
+Experience in product and infrastructure development, analytics and research. 
 </p>
 </div>
 <div>
