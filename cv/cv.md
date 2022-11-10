@@ -1,7 +1,7 @@
 # Резюме
 
 Залетова Виола Олеговна, 18.12.2000<br>
-**Fullstack developer**<br>
+**Fullstack developer / Big data analyst**<br>
 [viloloshka8@gmail.com](mailto:viloloshka8@gmail.com) <br>
 [teleram: vivishko](https://t.me/vivishko) <br>
 [github: vivishko](https://github.com/vivishko) 
