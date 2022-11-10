@@ -66,7 +66,7 @@ The following topics and modules have been covered within the program:
  · Data Visualisation (Tableau);
  · Project Defence;
 
-**Penza State University**, Computer Science Faculty, BSc. (_2017 - 2021_)
+**Penza State University**, Computer Science Faculty, BSc. (_2017 - 2021_) <br>
 I study applied math and informatics. Favorite courses: operational systems, linear algebra and analytic geometry.
 
 # Courses completed
