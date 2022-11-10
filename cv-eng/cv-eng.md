@@ -2,7 +2,7 @@
 <div style="justify-content: space-around; display: flex; align-items: center;"> <div width=170px><img style="object-fit:cover; border-radius:70%; margin: 0 auto;" width=170px src="https://avatars.githubusercontent.com/u/46869700"><p style="text-align: center;">Zaletova Viola<br>2000/12/18</p></div>
 <div style="padding-right: 10px;">
 
-# Fullstack developer
+# Fullstack developer / Big data analyst
 
 <p style="width: 300px; padding-bottom: 45px;">
 Experience in product and infrastructure development, analytics and research. 
