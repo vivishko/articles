@@ -12,7 +12,8 @@
 * _2022 - настоящее время_ <br>
 ***Yopta Academy*** ([сайт](yopta.academy), [сайт ру](yoptacademy.ru)) <br>
 Разработка инфраструктуры: написание backend-а сайта, проетирование архитектуры ... *дополняется* <br>
-**Стек**: Python, Django, Javascript. **Навыки**: Backend, DevOps, Frontend. 
+Организация работы команды: Notion, Gitlab ... *дополняется* <br>
+**Стек**: Python, Django, Javascript, AWS. **Навыки**: Backend, DevOps, Frontend, Project management. 
 
 * _2020 (июль) - 2021 (октябрь)_ <br>
 ***Wallcraft*** ([сайт](https://wallpaperscraft.ru/)) <br>
