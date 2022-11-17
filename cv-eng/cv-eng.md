@@ -34,7 +34,8 @@ Russian: native
 # Work Experience
 * **Yopta Academy** (_2022 - nowadays_) <br>
 Fullstack developer in EdTech-company.<br>
-Infrastructure development: writing a backend for the site, designing architecture ... *in progress*
+Infrastructure development: writing a backend for the site, designing architecture ... *in progress* <br>
+Project managment: Notion, Gitlab boards <br>
 * **Wallcraft** (_2020 (july) - 2021 (october)_) <br>
 User behavior analytics: writing scripts in Python (pandas, numpy, matplotlib, seaborn) and creating SQL queries to visualize data from databases (BigQuery, Postgres, Clickhouse), designing dashboards in BI Redash; working with Admob API, running ab-tests (Firebase).
 
