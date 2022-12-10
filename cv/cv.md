@@ -9,10 +9,10 @@
 
 ## Опыт работы
 
-* _2022 - настоящее время_ <br>
+* _2022 (сентябрь) - 2022 (декабрь)_ <br>
 ***Yopta Academy*** ([сайт](yopta.academy), [сайт ру](yoptacademy.ru)) <br>
-Разработка инфраструктуры: написание backend-а сайта, проетирование архитектуры ... *дополняется* <br>
-Организация работы команды: Notion, Gitlab boards ... *дополняется* <br>
+Разработка инфраструктуры: разработка сайта, проетирование архитектуры. <br>
+Project managment: Notion, Gitlab boards. Backend: Django. Frontend: Svelte. DevOps: AWS. <br>
 **Стек**: Python, Django, Javascript, AWS. **Навыки**: Backend, DevOps, Frontend, Project management. 
 
 * _2020 (июль) - 2021 (октябрь)_ <br>
